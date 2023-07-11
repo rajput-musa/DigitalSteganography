@@ -21,7 +21,7 @@ Digital Steganography is a Java application that enables the embedding and extra
 
 ```bash
 git clone https://github.com/rajput-musa/digital-steganography.git
-
+```
 ## Usage
 
 1. Launch the application by running the `Main.java` file.
