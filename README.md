@@ -54,6 +54,6 @@ This project was inspired by the concept of steganography and built using Java a
 
 ## Contact
 
-For any inquiries or feedback, please contact on discord _7up_.
+For any inquiries or feedback, please contact on discord @ "_7up_".
 
 Feel free to modify the contents of this README.md file to suit your project's specific details and requirements.
